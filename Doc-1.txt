@@ -1,0 +1,9 @@
+http://paulgraham.com/startupmistakes.html
+https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~profile~devprogram_attach&workflowid=devprogram&mkt=en-us
+https://www.xamarin.com/visual-studio-dev-essentials?token=10daad93-af36-4e0a-af7b-f11313697989
+https://university.xamarin.com/classes/track/self-guided
+https://components.xamarin.com/
+http://stackoverflow.com/questions/2445756/how-can-i-calculate-audio-db-level
+https://developer.xamarin.com/guides/android/getting_started/installation/set_up_device_for_development/
+https://www.template.net/design-templates/apps/best-android-app-ui-designs/
+http://science.sciencemag.org/content/319/5862/435
